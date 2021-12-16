@@ -5,11 +5,11 @@ Solucionando a dificuldade do processo de utilização de um caixa eletrônico p
 Classes: Conta, ContaPF, ContaPJ, Notas
 Metodos: Notas, Abastecer, ValorCaixa, Saque, Contas
 
-RELATORIO 25/11
+RELATORIO 25/11\n
 O projeto já esta encaminhado, as classes e metodos ja foram criados e a programação inicial finalizada.
 
-RELATORIO 02/12
+RELATORIO 02/12\n
 O projeto esta pronto, estamos melhorando e aprimorando a programação.
 
-RELATORIO 09/12
+RELATORIO 09/12\n
 Projeto finalizado.
