@@ -3,6 +3,7 @@ O projeto será a criação de um caixa eletrônico, com intuito de aprimorar es
 Solucionando a dificuldade do processo de utilização de um caixa eletrônico para auxiliar o usuário.
 
 Classes: Conta, ContaPF, ContaPJ, Notas.
+
 Metodos: Notas, Abastecer, ValorCaixa, Saque, Contas.
 
 RELATORIO 25/11: 
